@@ -1,0 +1,4 @@
+//= depend_on_asset sasscsample/_utils
+
+@import "sasscsample/utils";
+.a {@include a;}
